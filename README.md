@@ -13,5 +13,5 @@ npm install
 
 To execute the test we already added the command in the scripts of the package.json you only need to execute
 ```
-npm run wdio-test
+npm run wdio-run
 ```
